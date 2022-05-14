@@ -6,7 +6,7 @@ subtitle: "Пост по прошедшей неделе 02.05.2022 - 08.05.2022
 summary: ""
 authors: [Зайцева А.Д.]
 tags: [life]
-categories: [lifestyle]
+categories: [Lifestyle]
 date: 2022-05-07T22:05:56+03:00
 lastmod: 2022-05-07T22:05:56+03:00
 featured: false
