@@ -1,32 +1,40 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Управление версиями. Git."
 subtitle: "Пост - краткое ознакомление"
-summary: ""
-authors: [Зайцева А.Д.]
-tags: [git]
-categories: [Technologies]
+
+# Summary for listings and search engines
+summary: 
+# Link this post with a project
+projects: []
+
+# Date published
 date: 2022-05-07T22:05:56+03:00
+
+# Date updated
 lastmod: 2022-05-07T22:05:56+03:00
-featured: false
+
+# Is this an unpublished draft?
 draft: false
 
+# Show this page in the Featured widget?
+featured: false
+
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: "GIT"
   focal_point: "Center"
-  placement: 1
+  placement: 2
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+authors:
+  - Зайцева А.Д.
+
+tags:
+  - git
+
+categories:
+  - Technologies
 ---
 
 <div style="text-align:justify">Система контроля версий: почему это важно? Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий (СКВ) — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. СКВ позволяет позже вернуться к любой желаемой вами версии.</div>
