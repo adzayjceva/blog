@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Programming
+      tag: Programming
+    - name: JS
+      tag: JS
     - name: Other
       tag: Demo
 
